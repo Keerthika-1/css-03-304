@@ -1,0 +1,47 @@
+<style>
+
+
+        *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body{
+            width: 100vw;
+            height: 100vh;
+            padding: 10px;
+        }
+
+        .main{
+            width: fit-content;
+            height: fit-content;
+        }
+        img{
+            margin-bottom: 20px;
+        }
+        p{
+            font-size: 12px;
+            line-height: 20px;
+            margin-left: 15px;
+            color: black;
+            font-family:sans-serif;
+            font-weight: 500;
+        }
+        .amount{
+            display: flex;
+            align-items: center;
+        }
+        .symbol{
+            font-weight: bold;
+            font-size: 12px;
+            color: #767676;
+            font-family: sans-serif;
+        }
+        span{
+            font-weight: bold;
+            font-size: 14px;
+            color: #767676;
+            font-family: sans-serif;
+        }
+    </style>
